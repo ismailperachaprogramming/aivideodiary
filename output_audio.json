@@ -1,0 +1,1 @@
+{"text": " This is the test recording.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 4.0, "text": " This is the test recording.", "tokens": [50364, 639, 307, 264, 1500, 6613, 13, 50564], "temperature": 0.0, "avg_logprob": -0.5342266824510362, "compression_ratio": 0.8181818181818182, "no_speech_prob": 0.06017496436834335}], "language": "English"}
