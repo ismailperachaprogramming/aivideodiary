@@ -1,3 +1,7 @@
+This project focuses on building an AI-driven video diary application that captures video recordings, transcribes the speech to text, and extracts key topics or keywords from the transcription. It leverages various technologies such as React for the frontend, Whisper for transcription, FFmpeg for video/audio processing, and YAKE for keyword extraction. The application provides users with the ability to record videos, download the recordings, transcribe speech, and retrieve meaningful keywords.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
