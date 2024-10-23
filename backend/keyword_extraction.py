@@ -17,3 +17,4 @@ keywords = yake_extractor.extract_keywords(transcribed_text)
 print("Extracted Keywords:")
 for keyword, score in keywords:
     print(f"Keyword: {keyword}, Score: {score}")
+ 
